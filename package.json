@@ -1,0 +1,11 @@
+{
+  "name": "feedback",
+  "version": "0.1.0",
+  "description": "suggestions server",
+  "main": "index.js",
+  "author": "Jaume Pernas <jaume@blockchain.com>",
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "^2.67.0"
+  }
+}
